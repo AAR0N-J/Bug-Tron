@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=computerBug
+comment0.text=\n\ Description\:\ Makes\ computerBug\ do\ stuff,\ he\ can\ be\ too\ smart\ sometimes\n\ \n\ To\ win\ as\ is\:\ have\ bug\ surrounded\ on\ 3\ sides.\n\n\ @author\ Aaron\ Johnson\n
+comment1.params=
+comment1.target=computerBug()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=boolean\ seeFlower()
+comment5.params=
+comment5.target=info.gridworld.actor.Actor\ getNeighbor()
+comment6.params=
+comment6.target=info.gridworld.grid.Location\ getNextLocation()
+comment7.params=
+comment7.target=void\ randomTurn()
+comment8.params=degrees
+comment8.target=void\ turn(int)
+comment9.params=
+comment9.target=void\ lookAtFlower()
+numComments=10

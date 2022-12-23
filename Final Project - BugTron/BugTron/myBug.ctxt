@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=myBug
+comment0.text=\n\ Description\:\ Makes\ Bug\ do\ stuff\n\n\ @author\ Aaron\ Johnson\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=boolean\ seeFlower()
+comment4.params=
+comment4.target=info.gridworld.actor.Actor\ getNeighbor()
+comment5.params=
+comment5.target=info.gridworld.grid.Location\ getNextLocation()
+comment6.params=
+comment6.target=void\ lookAtFlower()
+numComments=7
